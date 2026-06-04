@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.log
+progress.json
+test-*.py
+test_*.py
+__pycache__/
+*.pyc
+.env
+.DS_Store

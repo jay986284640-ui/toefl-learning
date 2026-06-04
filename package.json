@@ -1,0 +1,14 @@
+{
+  "name": "toefl-learning",
+  "version": "1.0.0",
+  "description": "TOEFL 100 Sentences Learning Web Service",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
